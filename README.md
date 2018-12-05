@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+Decemeber 4, 2018
 
 ### Student Name:  
-(First and Last Name)
+Krisia Lazo 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This application is used to look up movie titles and get back information on the movies you searched 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://krisialazo.github.io/lesson8_ajax/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned whar JSON is and that it stands for Javascript Object Notation 
+2. Learned basic syntax and that JSON is a syntax used for storing and exchnaging data 
+3. Learned how JSON works 
+4. Learned the steps involved in using Ajax to update data 
+5. Learned how to create an HTTP request and interpret an HTTP response 
